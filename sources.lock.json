@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "reviewed_at": "2026-10-23",
+  "sources": [
+    {
+      "name": "youtube-production-plugin",
+      "fork": "https://github.com/dongeuncheon/youtube-production-plugin",
+      "upstream": "https://github.com/darkzOGx/youtube-automation-agent",
+      "revision": "24f9cb521fcbebec70b7a193e0f6d972aeec88a6",
+      "license": "MIT",
+      "role": "fork-ancestry-production-reference",
+      "integration": "reference-only-not-bundled"
+    },
+    {
+      "name": "youtube-agent-skill",
+      "fork": "https://github.com/dongeuncheon/youtube-agent-skill",
+      "upstream": "https://github.com/Jakeschincariol/youtube-agent-skill",
+      "revision": "a2feb2104981a375ffd4f87ee04f4f5344ac43c6",
+      "license": "MIT",
+      "role": "editorial-reference",
+      "integration": "reference-only-not-bundled"
+    },
+    {
+      "name": "claude-youtube",
+      "fork": "https://github.com/dongeuncheon/claude-youtube",
+      "upstream": "https://github.com/AgriciDaniel/claude-youtube",
+      "revision": "84c3fa6805200632fadb4fe2795ef265511271c7",
+      "license": "MIT",
+      "role": "strategy-reference",
+      "integration": "reference-only-not-bundled"
+    },
+    {
+      "name": "yutu",
+      "fork": "https://github.com/dongeuncheon/yutu",
+      "upstream": "https://github.com/eat-pray-ai/yutu",
+      "revision": "87e1380ddf7e881198e12060bb4da6849b387f2f",
+      "license": "Apache-2.0",
+      "role": "operations-adapter-candidate",
+      "integration": "reference-only-not-bundled"
+    },
+    {
+      "name": "AI-Youtube-Shorts-Generator",
+      "fork": "https://github.com/dongeuncheon/AI-Youtube-Shorts-Generator",
+      "upstream": "https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator",
+      "revision": "70c5fa96984cbc35b3b76a981a81c676117370ec",
+      "license": "MIT",
+      "role": "clipping-adapter-candidate",
+      "integration": "reference-only-not-bundled"
+    },
+    {
+      "name": "ShortGPT",
+      "fork": "https://github.com/dongeuncheon/ShortGPT",
+      "upstream": "https://github.com/RayVentura/ShortGPT",
+      "revision": "3df4e0f7a422bf7386565d498bf4521a2544c614",
+      "license": "MIT",
+      "role": "editing-adapter-candidate",
+      "integration": "reference-only-not-bundled"
+    },
+    {
+      "name": "MoneyPrinter",
+      "fork": "https://github.com/dongeuncheon/MoneyPrinter",
+      "upstream": "https://github.com/FujiwaraChoki/MoneyPrinter",
+      "revision": "2a7c6bc6e8fab6e01fa740c4311d9e1e233b0262",
+      "license": "MIT",
+      "role": "short-production-adapter-candidate",
+      "integration": "reference-only-not-bundled"
+    }
+  ]
+}

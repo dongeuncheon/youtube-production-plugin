@@ -1,0 +1,20 @@
+{
+  "name": "youtube-production",
+  "description": "A minimal, evidence-based YouTube planning, production handoff, and review workflow.",
+  "owner": {
+    "name": "dongeuncheon"
+  },
+  "plugins": [
+    {
+      "name": "youtube-production",
+      "source": "./plugins/youtube-production",
+      "description": "Plan videos, prepare authorized production handoffs, and review measured results without publishing or paid calls.",
+      "version": "0.1.0",
+      "author": {
+        "name": "dongeuncheon"
+      },
+      "license": "MIT",
+      "keywords": ["youtube", "video", "production", "retention", "experiments"]
+    }
+  ]
+}

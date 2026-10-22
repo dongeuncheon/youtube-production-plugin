@@ -1,0 +1,10 @@
+{
+  "name": "youtube-production",
+  "version": "0.1.0",
+  "description": "A minimal YouTube workflow for planning, production handoff, and evidence-based review.",
+  "author": {
+    "name": "dongeuncheon"
+  },
+  "license": "MIT",
+  "keywords": ["youtube", "video", "production", "retention", "experiments"]
+}
